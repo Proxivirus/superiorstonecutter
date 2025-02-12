@@ -9,37 +9,38 @@ body:
     id: what-happened
     attributes:
       label: What happened?
-      description: Also tell us, what did you expect to happen?
       value: "A bug happened!"
     validations:
       required: true
   - type: dropdown
     id: loader-version
     attributes:
-      label: Loader
-      description: What loader are you using?
+      label: What loader are you using?
       options:
         - Datapack (Vanilla)
         - Fabric
         - Quilt
         - Forge
         - Neoforge
-      default: 0
     validations:
       required: true
   - type: dropdown
     id: minecraft-version
     attributes:
-      label: What Minecraft version are you playing on
+      label: What Minecraft version are you playing on?
       multiple: true
       options:
         - 1.21/1.21.1
         - 1.21.2/1.21.3
         - 1.21.4
-  - type: checkbox
+    validations:
+      required: true
+  - type: checkboxes
     id: lastest-version
     attributes:
       label: Are you using the newest version of Superior Stonecutter available?
       options:
         - label: "Yes"
         - label: "No"
+    validations:
+      required: true
