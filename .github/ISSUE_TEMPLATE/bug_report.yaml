@@ -28,7 +28,6 @@ body:
     id: minecraft-version
     attributes:
       label: What Minecraft version are you playing on?
-      multiple: true
       options:
         - 1.21/1.21.1
         - 1.21.2/1.21.3
