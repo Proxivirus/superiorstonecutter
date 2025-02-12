@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_trapdoor"
+    },
+    {
+      "item": "minecraft:bamboo_slab"
+    },
+    {
+      "item": "minecraft:bamboo_mosaic_slab"
+    },
+	{
+      "item": "minecraft:bamboo_fence"
+    },
+    {
+      "item": "minecraft:bamboo_fence_gate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

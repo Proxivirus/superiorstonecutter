@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:mangrove_planks"
+    },
+    {
+      "item": "minecraft:mangrove_door"
+    }
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "deeperdarker:bloom_trapdoor"
+    },
+	{
+      "item": "deeperdarker:bloom_slab"
+    },
+	{
+      "item": "deeperdarker:bloom_stairs"
+    },
+    {
+      "item": "deeperdarker:bloom_door"
+    }
+  ],
+  "result": {
+    "id": "deeperdarker:bloom_pressure_plate",
+    "count": 2
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "deeperdarker:polished_sculk_stone"
+    },
+    {
+      "item": "deeperdarker:polished_sculk_stone_wall"
+    },
+    {
+      "item": "deeperdarker:sculk_stone_wall"
+    },
+    {
+      "item": "deeperdarker:sculk_stone_tiles"
+    },
+    {
+      "item": "deeperdarker:sculk_stone_tile_wall"
+    },
+    {
+      "item": "deeperdarker:smooth_sculk_stone"
+    },
+    {
+      "item": "deeperdarker:smooth_sculk_stone_wall"
+    },
+    {
+      "item": "deeperdarker:cut_sculk_stone"
+    },
+    {
+      "item": "deeperdarker:cut_sculk_stone_wall"
+    },
+    {
+      "item": "deeperdarker:chiseled_sculk_stone"
+    }
+  ],
+  "result": {
+    "id": "deeperdarker:sculk_stone_brick_wall",
+    "count": 1
+  }
+}

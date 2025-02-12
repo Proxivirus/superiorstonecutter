@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "deeperdarker:bloom_planks"
+    }
+  ],
+  "result": {
+    "id": "deeperdarker:bloom_trapdoor",
+    "count": 2
+  }
+}

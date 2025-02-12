@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:birch_pressure_plate"
+    },
+    {
+      "item": "minecraft:birch_sign"
+    }
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 1
+  }
+}

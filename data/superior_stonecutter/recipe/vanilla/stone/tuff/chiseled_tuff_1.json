@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:polished_tuff"
+    },
+    {
+      "item": "minecraft:tuff_bricks"
+    },
+    {
+      "item": "minecraft:chiseled_tuff_bricks"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chiseled_tuff",
+    "count": 1
+  }
+}

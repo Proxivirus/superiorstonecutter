@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_trapdoor"
+    },
+	{
+      "item": "minecraft:bamboo_slab"
+    },
+	{
+      "item": "minecraft:bamboo_mosaic_slab"
+    },
+	{
+      "item": "minecraft:bamboo_stairs"
+    },
+	{
+      "item": "minecraft:bamboo_mosaic_stairs"
+    },
+    {
+      "item": "minecraft:bamboo_door"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bamboo_pressure_plate",
+    "count": 2
+  }
+}

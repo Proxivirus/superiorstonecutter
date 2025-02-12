@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:birch_planks"
+    }
+  ],
+  "result": {
+    "id": "stylishstiles:birch_stile",
+    "count": 1
+  }
+}

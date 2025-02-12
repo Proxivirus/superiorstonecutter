@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "glow_ink_plus:glow_orange_wool"
+    }
+  ],
+  "result": {
+    "id": "glow_ink_plus:glow_orange_carpet",
+    "count": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "deeperdarker:bloom_trapdoor"
+    },
+    {
+      "item": "deeperdarker:bloom_slab"
+    },
+	{
+      "item": "deeperdarker:bloom_fence"
+    },
+    {
+      "item": "deeperdarker:bloom_fence_gate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

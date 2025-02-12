@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:oxidized_copper"
+    },
+    {
+      "item": "minecraft:waxed_weathered_copper"
+    }
+  ],
+  "result": {
+    "id": "minecraft:weathered_copper",
+    "count": 1
+  }
+}

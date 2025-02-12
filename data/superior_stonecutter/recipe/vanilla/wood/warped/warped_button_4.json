@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:warped_planks"
+    },
+    {
+      "item": "minecraft:warped_door"
+    }
+  ],
+  "result": {
+    "id": "minecraft:warped_button",
+    "count": 4
+  }
+}

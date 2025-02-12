@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "deeperdarker:sculk_grime_brick_stairs"
+    }
+  ],
+  "result": {
+    "id": "deeperdarker:sculk_grime_brick_slab",
+    "count": 1
+  }
+}

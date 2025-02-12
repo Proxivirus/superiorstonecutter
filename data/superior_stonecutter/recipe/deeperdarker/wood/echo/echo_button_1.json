@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "deeperdarker:echo_pressure_plate"
+    },
+    {
+      "item": "deeperdarker:echo_sign"
+    }
+  ],
+  "result": {
+    "id": "deeperdarker:echo_button",
+    "count": 1
+  }
+}

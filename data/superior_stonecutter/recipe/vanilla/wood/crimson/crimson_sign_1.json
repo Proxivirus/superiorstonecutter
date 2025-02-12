@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:crimson_stairs"
+    },
+    {
+      "item": "minecraft:crimson_slab"
+    },
+	{
+      "item": "minecraft:crimson_door"
+    }
+  ],
+  "result": {
+    "id": "minecraft:crimson_sign",
+    "count": 1
+  }
+}

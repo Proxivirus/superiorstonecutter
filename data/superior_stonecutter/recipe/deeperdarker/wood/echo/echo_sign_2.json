@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "deeperdarker:echo_planks"
+    }
+  ],
+  "result": {
+    "id": "deeperdarker:echo_sign",
+    "count": 2
+  }
+}

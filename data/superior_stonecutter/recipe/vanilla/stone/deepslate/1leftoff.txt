@@ -1,0 +1,5 @@
+cobbled deepslate wall
+
+add ingredients
+brick block can turn into tiles
+polished deepslate can turn into brick and tiles

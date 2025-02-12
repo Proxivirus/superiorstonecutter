@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:white_wool"
+    }
+  ],
+  "result": {
+    "id": "minecraft:white_carpet",
+    "count": 4
+  }
+}

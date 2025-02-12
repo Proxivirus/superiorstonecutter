@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "deeperdarker:blooming_stem"
+    }
+  ],
+  "result": {
+    "id": "deeperdarker:stripped_blooming_stem",
+    "count": 1
+  }
+}

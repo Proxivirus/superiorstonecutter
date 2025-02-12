@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:acacia_trapdoor"
+    },
+    {
+      "item": "minecraft:acacia_slab"
+    },
+	{
+      "item": "minecraft:acacia_fence"
+    },
+    {
+      "item": "minecraft:acacia_fence_gate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

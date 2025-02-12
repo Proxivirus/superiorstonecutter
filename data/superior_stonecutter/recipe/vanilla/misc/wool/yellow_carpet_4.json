@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:yellow_wool"
+    }
+  ],
+  "result": {
+    "id": "minecraft:yellow_carpet",
+    "count": 4
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "glow_ink_plus:glow_black_wool"
+    },
+	{
+      "item": "glow_ink_plus:glow_blue_wool"
+    },
+    {
+      "item": "glow_ink_plus:glow_brown_wool"
+    },
+    {
+      "item": "glow_ink_plus:glow_cyan_wool"
+    },
+    {
+      "item": "glow_ink_plus:glow_gray_wool"
+    },
+    {
+      "item": "glow_ink_plus:glow_green_wool"
+    },
+    {
+      "item": "glow_ink_plus:glow_light_blue_wool"
+    },
+    {
+      "item": "glow_ink_plus:glow_light_gray_wool"
+    },
+    {
+      "item": "glow_ink_plus:glow_lime_wool"
+    },
+    {
+      "item": "glow_ink_plus:glow_magenta_wool"
+    },
+    {
+      "item": "glow_ink_plus:glow_orange_wool"
+    },
+    {
+      "item": "glow_ink_plus:glow_pink_wool"
+    },
+    {
+      "item": "glow_ink_plus:glow_purple_wool"
+    },
+    {
+      "item": "glow_ink_plus:glow_red_wool"
+    },
+    {
+      "item": "glow_ink_plus:glow_white_wool"
+    },
+    {
+      "item": "glow_ink_plus:glow_yellow_wool"
+    }
+  ],
+  "result": {
+    "id": "minecraft:string",
+    "count": 4
+  }
+}

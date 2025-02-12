@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "deeperdarker:smooth_gloomslate_stairs"
+    },
+    {
+      "item": "deeperdarker:cut_gloomslate_stairs"
+    },
+    {
+      "item": "deeperdarker:cut_gloomslate_slab"
+    }
+  ],
+  "result": {
+    "id": "deeperdarker:smooth_gloomslate_slab",
+    "count": 1
+  }
+}

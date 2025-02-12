@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "deeperdarker:sculk_grime"
+    },
+    {
+      "item": "deeperdarker:sculk_grime_bricks"
+    }
+  ],
+  "result": {
+    "id": "deeperdarker:grime_brick",
+    "count": 4
+  }
+}
