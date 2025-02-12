@@ -42,6 +42,6 @@ body:
       label: Are you using the newest version of Superior Stonecutter available?
       options:
         - label: "Yes"
-          value: | "yes
+          value: "yes
         - label: "No"
-          value: | "no"
+          value: "no"
