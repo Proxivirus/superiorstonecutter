@@ -43,20 +43,19 @@
 
 **<p align="center">Side-crafting allows you to switch between block variants in a balanced way.** 
 
-**<p align="center">For example, you can turn stone into stone bricks and turn it back into stone.**
+**<p align="center">For example, you can turn deepslate bricks into tiles or polished deepslate and turn it back.**
 
-**<p align="center">But if you turn stone into cobblestone, you can't switch it back because you would need to smelt it.**
-
-**<p align="center">Same with blocks like smooth stone.**
+<p align="center"><img src="https://i.imgur.com/kWE35mx.gif" width="700" alt="showing everything that deepslate bricks turn into">
 
 **<p align="center">This feature is also supported with blocks like stairs, slabs, and walls!**
+
+<p align="center"><img src="https://i.imgur.com/ltTgI5w.gif" width="700" alt="showing everything that deepslate brick stairs slabs and walls turn into">
 
 ## ⛏️Copper
 **<p align="center">
 Why is copper in its own section? Because its got some special features just for it!**
 
 **<p align="center">Normally, the only way to remove wax or an oxidization layer from copper is with an axe. This can take a while if you have a lot of copper blocks. But now, it doesn't have to.**
-
 
 ### <p align="center">If your copper block is waxed, run it through the stonecutter to remove the wax.
 <p align="center"><img src="https://i.imgur.com/DMfrvZ8.gif" width="400" alt="stonecutter removing wax from copper block">
@@ -66,7 +65,7 @@ Why is copper in its own section? Because its got some special features just for
 <p align="center"><img src="https://i.imgur.com/N7p7Oun.gif" width="400" alt="stonecutter removing oxidization layers from copper block">
 </p>
 
-## <p align="center">💡Extras
+## <p align="center">↓Extras↓
 </p>
 
 <details>
@@ -96,9 +95,27 @@ Why is copper in its own section? Because its got some special features just for
 
 ## **<p align="center">Mud**
 
+**<p align="center">Convert your packed mud directly into mud bricks**
+
+<p align="center"><img src="https://i.imgur.com/XLbX5vk.gif" width="500" alt="packed mud turning into mud bricks and the derivatives">
+
+**<p align="center">Or, with sidecrafting, convert your mud bricks back into packed mud**
+
+<p align="center"><img src="https://i.imgur.com/wU1cCzi.png" width="500" alt="mud bricks turning back into packed mud">
+
 ## **<p align="center">Mushrooms**
 
+**<p align="center">Take your mushroom blocks and turn them back into mushrooms**
+
+<p align="center"><img src="https://i.imgur.com/A9j3ANK.png" width="500" alt="red mushroom block turning into red mushrooms">
+
+<p align="center"><img src="https://i.imgur.com/OfU2p3x.png" width="500" alt="brown mushroom block turning into brown mushrooms">
+
 ## **<p align="center">Clay**
+
+**<p align="center">Make turning clay blocks back into clay balls in bulk easy**
+
+<p align="center"><img src="https://i.imgur.com/VEQMhsk.png" width="500" alt="clay blocks turning into 4 clay balls">
 
 </details>
 
@@ -113,17 +130,17 @@ Why is copper in its own section? Because its got some special features just for
 
 ### <p align="center">[Stylish Stiles](https://modrinth.com/mod/stylish-stiles)
 
-## <p align="center">Planned Additions
+## <p align="center">Planned
 
-### <p align="center">Friends & Foes
+### <p align="center">[Friends & Foes](https://modrinth.com/mod/friends-and-foes)
 
-### <p align="center">Stoneworks
+### <p align="center">[Stoneworks](https://modrinth.com/mod/stoneworks)
 
-### <p align="center">Copper Rails
+### <p align="center">[CopperRails](https://modrinth.com/mod/copperrails)
 
-### <p align="center">Better Archeology
+### <p align="center">[Better Archeology](https://modrinth.com/mod/better-archeology)
 
-### <p align="center">Mo Glass
+### <p align="center">[Mo Glass](https://modrinth.com/mod/mo-glass)
 
 </p>
 </details>
