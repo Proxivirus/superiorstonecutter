@@ -2,21 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": [
     {
-      "item": "minecraft:deepslate"
-    },
-    {
-      "item": "minecraft:chiseled_deepslate"
-    },
-    {
-      "item": "minecraft:polished_deepslate"
-    },
-    {
-      "item": "minecraft:deepslate_bricks"
-    },
-    {
-      "item": "minecraft:deepslate_tiles"
-    },
-    {
       "item": "minecraft:cracked_deepslate_tiles"
     }
   ],
