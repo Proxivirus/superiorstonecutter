@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:jungle_planks"
+  ],
+  "result": {
+    "id": "stylishstiles:jungle_stile",
+    "count": 1
+  }
+}

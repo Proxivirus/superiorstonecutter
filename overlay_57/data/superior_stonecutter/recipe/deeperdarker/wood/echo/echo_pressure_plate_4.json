@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "deeperdarker:echo_planks"
+  ],
+  "result": {
+    "id": "deeperdarker:echo_pressure_plate",
+    "count": 4
+  }
+}

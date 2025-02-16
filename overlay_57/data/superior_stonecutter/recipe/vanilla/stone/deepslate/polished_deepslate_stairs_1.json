@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:deepslate",
+    "minecraft:chiseled_deepslate",
+    "minecraft:deepslate_bricks",
+    "minecraft:cracked_deepslate_bricks",
+    "minecraft:deepslate_tiles",
+    "minecraft:deepslate_tile_stairs",
+    "minecraft:cracked_deepslate_tiles",
+    "minecraft:cobbled_deepslate_stairs",
+    "minecraft:deepslate_brick_stairs"
+  ],
+  "result": {
+    "id": "minecraft:polished_deepslate_stairs",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:red_mushroom_block"
+  ],
+  "result": {
+    "id": "minecraft:red_mushroom",
+    "count": 4
+  }
+}

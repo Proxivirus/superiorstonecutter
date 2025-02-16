@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:bamboo_planks",
+    "minecraft:bamboo_mosaic",
+    "minecraft:bamboo_door"
+  ],
+  "result": {
+    "id": "minecraft:bamboo_button",
+    "count": 4
+  }
+}

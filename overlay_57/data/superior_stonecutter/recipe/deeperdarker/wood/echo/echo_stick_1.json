@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "deeperdarker:echo_pressure_plate",
+    "deeperdarker:echo_sign"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 1
+  }
+}

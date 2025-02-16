@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "deeperdarker:bloom_pressure_plate",
+    "deeperdarker:bloom_sign"
+  ],
+  "result": {
+    "id": "deeperdarker:bloom_button",
+    "count": 1
+  }
+}

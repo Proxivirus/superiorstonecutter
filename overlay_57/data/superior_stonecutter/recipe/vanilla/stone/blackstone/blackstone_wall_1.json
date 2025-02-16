@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:chiseled_polished_blackstone",
+    "minecraft:polished_blackstone",
+    "minecraft:polished_blackstone_wall",
+    "minecraft:polished_blackstone_bricks",
+    "minecraft:cracked_polished_blackstone_bricks",
+    "minecraft:polished_blackstone_brick_wall"
+  ],
+  "result": {
+    "id": "minecraft:blackstone_wall",
+    "count": 1
+  }
+}

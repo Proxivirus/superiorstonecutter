@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:acacia_stairs",
+    "minecraft:acacia_slab",
+    "minecraft:acacia_door"
+  ],
+  "result": {
+    "id": "minecraft:acacia_sign",
+    "count": 1
+  }
+}

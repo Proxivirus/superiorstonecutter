@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:oak_stairs",
+    "minecraft:oak_slab",
+    "minecraft:oak_door"
+  ],
+  "result": {
+    "id": "minecraft:oak_sign",
+    "count": 1
+  }
+}

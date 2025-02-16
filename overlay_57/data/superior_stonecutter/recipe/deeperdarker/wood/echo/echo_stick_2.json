@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "deeperdarker:echo_trapdoor",
+    "deeperdarker:echo_slab",
+    "deeperdarker:echo_fence",
+    "deeperdarker:echo_fence_gate"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

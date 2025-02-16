@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:dark_oak_trapdoor",
+    "minecraft:dark_oak_slab",
+    "minecraft:dark_oak_fence",
+    "minecraft:dark_oak_fence_gate"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:exposed_cut_copper_stairs",
+    "minecraft:weathered_cut_copper_slab",
+    "minecraft:waxed_exposed_cut_copper_slab"
+  ],
+  "result": {
+    "id": "minecraft:exposed_cut_copper_slab",
+    "count": 1
+  }
+}

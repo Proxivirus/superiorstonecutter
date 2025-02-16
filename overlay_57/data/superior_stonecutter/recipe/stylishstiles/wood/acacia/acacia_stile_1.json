@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:acacia_planks"
+  ],
+  "result": {
+    "id": "stylishstiles:acacia_stile",
+    "count": 1
+  }
+}

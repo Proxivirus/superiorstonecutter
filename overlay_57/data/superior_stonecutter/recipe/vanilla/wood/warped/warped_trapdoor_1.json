@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:warped_stairs",
+    "minecraft:warped_slab"
+  ],
+  "result": {
+    "id": "minecraft:warped_trapdoor",
+    "count": 1
+  }
+}

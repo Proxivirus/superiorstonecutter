@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:crimson_trapdoor",
+    "minecraft:crimson_slab",
+    "minecraft:crimson_fence",
+    "minecraft:crimson_fence_gate"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

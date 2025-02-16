@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:gold_block"
+  ],
+  "result": {
+    "id": "minecraft:gold_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "glow_ink_plus:glow_light_gray_wool"
+  ],
+  "result": {
+    "id": "glow_ink_plus:glow_light_gray_carpet",
+    "count": 4
+  }
+}

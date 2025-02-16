@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:gold_block"
+  ],
+  "result": {
+    "id": "minecraft:light_weighted_pressure_plate",
+    "count": 6
+  }
+}

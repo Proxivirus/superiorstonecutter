@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:stone",
+    "minecraft:mossy_cobblestone",
+    "minecraft:smooth_stone",
+    "minecraft:stone_bricks",
+    "minecraft:cracked_stone_bricks",
+    "minecraft:chiseled_stone_bricks",
+    "minecraft:mossy_stone_bricks"
+  ],
+  "result": {
+    "id": "minecraft:cobblestone_slab",
+    "count": 2
+  }
+}

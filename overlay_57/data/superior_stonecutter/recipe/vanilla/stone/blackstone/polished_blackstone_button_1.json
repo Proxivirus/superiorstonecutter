@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:polished_blackstone_pressure_plate"
+  ],
+  "result": {
+    "id": "minecraft:polished_blackstone_button",
+    "count": 1
+  }
+}

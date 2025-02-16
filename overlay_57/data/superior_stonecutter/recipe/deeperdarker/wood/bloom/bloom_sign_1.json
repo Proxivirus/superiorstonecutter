@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "deeperdarker:bloom_stairs",
+    "deeperdarker:bloom_slab",
+    "deeperdarker:bloom_door"
+  ],
+  "result": {
+    "id": "deeperdarker:bloom_sign",
+    "count": 1
+  }
+}

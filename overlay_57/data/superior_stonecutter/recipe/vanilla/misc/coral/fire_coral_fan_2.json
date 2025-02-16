@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:fire_coral"
+  ],
+  "result": {
+    "id": "minecraft:fire_coral_fan",
+    "count": 2
+  }
+}

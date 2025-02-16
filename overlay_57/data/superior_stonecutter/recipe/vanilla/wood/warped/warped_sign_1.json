@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:warped_stairs",
+    "minecraft:warped_slab",
+    "minecraft:warped_door"
+  ],
+  "result": {
+    "id": "minecraft:warped_sign",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:tuff_wall",
+    "minecraft:chiseled_tuff",
+    "minecraft:tuff_bricks",
+    "minecraft:tuff_brick_wall",
+    "minecraft:chiseled_tuff_bricks"
+  ],
+  "result": {
+    "id": "minecraft:polished_tuff_wall",
+    "count": 1
+  }
+}

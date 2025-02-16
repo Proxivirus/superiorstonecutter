@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "deeperdarker:gloomslate",
+    "deeperdarker:gloomslate_wall",
+    "deeperdarker:polished_gloomslate",
+    "deeperdarker:polished_gloomslate_wall",
+    "deeperdarker:gloomslate_tiles",
+    "deeperdarker:gloomslate_tile_wall",
+    "deeperdarker:smooth_gloomslate",
+    "deeperdarker:smooth_gloomslate_wall",
+    "deeperdarker:cut_gloomslate",
+    "deeperdarker:cut_gloomslate_wall",
+    "deeperdarker:chiseled_gloomslate"
+  ],
+  "result": {
+    "id": "deeperdarker:gloomslate_brick_wall",
+    "count": 1
+  }
+}

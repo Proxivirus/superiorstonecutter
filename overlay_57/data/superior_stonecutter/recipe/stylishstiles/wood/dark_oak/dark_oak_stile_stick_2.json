@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "stylishstiles:dark_oak_stile"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

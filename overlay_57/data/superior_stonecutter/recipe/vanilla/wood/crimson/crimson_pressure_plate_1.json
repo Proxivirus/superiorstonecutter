@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:crimson_sign"
+  ],
+  "result": {
+    "id": "minecraft:crimson_pressure_plate",
+    "count": 1
+  }
+}

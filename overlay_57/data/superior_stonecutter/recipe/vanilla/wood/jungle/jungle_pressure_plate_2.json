@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:jungle_trapdoor",
+    "minecraft:jungle_slab",
+    "minecraft:jungle_stairs",
+    "minecraft:jungle_door"
+  ],
+  "result": {
+    "id": "minecraft:jungle_pressure_plate",
+    "count": 2
+  }
+}

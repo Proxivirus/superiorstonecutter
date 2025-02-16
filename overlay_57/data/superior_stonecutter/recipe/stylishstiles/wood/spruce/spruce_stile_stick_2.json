@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "stylishstiles:spruce_stile"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

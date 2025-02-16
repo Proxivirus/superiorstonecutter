@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:mangrove_trapdoor",
+    "minecraft:mangrove_slab",
+    "minecraft:mangrove_fence",
+    "minecraft:mangrove_fence_gate"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

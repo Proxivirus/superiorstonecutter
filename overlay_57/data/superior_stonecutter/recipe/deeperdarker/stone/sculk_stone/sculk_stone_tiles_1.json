@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "deeperdarker:polished_sculk_stone",
+    "deeperdarker:sculk_stone_bricks",
+    "deeperdarker:smooth_sculk_stone",
+    "deeperdarker:cut_sculk_stone",
+    "deeperdarker:chiseled_sculk_stone"
+  ],
+  "result": {
+    "id": "deeperdarker:sculk_stone_tiles",
+    "count": 1
+  }
+}

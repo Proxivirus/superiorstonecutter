@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "deeperdarker:echo_stairs",
+    "deeperdarker:echo_slab"
+  ],
+  "result": {
+    "id": "deeperdarker:echo_trapdoor",
+    "count": 1
+  }
+}

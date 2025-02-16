@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "deeperdarker:bloom_planks",
+    "deeperdarker:bloom_door"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "deeperdarker:smooth_sculk_stone_stairs",
+    "deeperdarker:cut_sculk_stone_stairs",
+    "deeperdarker:cut_sculk_stone_slab"
+  ],
+  "result": {
+    "id": "deeperdarker:smooth_sculk_stone_slab",
+    "count": 1
+  }
+}

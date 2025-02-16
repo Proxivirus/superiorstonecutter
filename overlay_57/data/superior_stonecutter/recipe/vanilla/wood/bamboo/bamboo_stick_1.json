@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:bamboo",
+    "minecraft:bamboo_pressure_plate",
+    "minecraft:bamboo_sign"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 1
+  }
+}

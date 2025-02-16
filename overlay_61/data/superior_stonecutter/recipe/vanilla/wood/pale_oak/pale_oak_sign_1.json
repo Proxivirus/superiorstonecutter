@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:pale_oak_stairs",
+    "minecraft:pale_oak_slab",
+    "minecraft:pale_oak_door"
+  ],
+  "result": {
+    "id": "minecraft:pale_oak_sign",
+    "count": 1
+  }
+}

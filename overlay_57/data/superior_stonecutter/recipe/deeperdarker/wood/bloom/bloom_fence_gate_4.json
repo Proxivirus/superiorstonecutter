@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "deeperdarker:blooming_stem",
+    "deeperdarker:stripped_blooming_stem"
+  ],
+  "result": {
+    "id": "deeperdarker:bloom_fence_gate",
+    "count": 4
+  }
+}

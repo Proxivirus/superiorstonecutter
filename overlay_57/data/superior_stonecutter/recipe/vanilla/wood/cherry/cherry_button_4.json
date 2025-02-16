@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:cherry_planks",
+    "minecraft:cherry_door"
+  ],
+  "result": {
+    "id": "minecraft:cherry_button",
+    "count": 4
+  }
+}

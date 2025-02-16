@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "deeperdarker:echo_wood"
+  ],
+  "result": {
+    "id": "deeperdarker:stripped_echo_wood",
+    "count": 1
+  }
+}

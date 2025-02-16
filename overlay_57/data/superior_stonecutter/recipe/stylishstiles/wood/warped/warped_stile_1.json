@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:warped_planks"
+  ],
+  "result": {
+    "id": "stylishstiles:warped_stile",
+    "count": 1
+  }
+}

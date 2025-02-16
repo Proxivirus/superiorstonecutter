@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:jungle_trapdoor",
+    "minecraft:jungle_slab",
+    "minecraft:jungle_fence",
+    "minecraft:jungle_fence_gate"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}
