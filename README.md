@@ -117,6 +117,22 @@ Why is copper in its own section? Because its got some special features just for
 
 <p align="center"><img src="https://i.imgur.com/VEQMhsk.png" width="500" alt="clay blocks turning into 4 clay balls">
 
+## **<p align="center">Slime**
+
+**<p align="center">Turn slime blocks into balls, just like a crafting table**
+
+<p align="center"><img src="https://i.imgur.com/jQW4PHP.png" width="500" alt="slime blocks turning into 4 slime balls">
+
+## **<p align="center">Coral**
+
+**<p align="center">Turn coral blocks into normal coral and coral fans**
+
+<p align="center"><img src="https://i.imgur.com/vxlkCS3.gif" width="500" alt="each coral block being able to be turned into 4 normal coral or 8 coral fans">
+
+**<p align="center">You can also turn normal coral into coral fans**
+
+<p align="center"><img src="https://i.imgur.com/VEVWpkf.gif" width="500" alt="normal coral being turned into 4 coral fans">
+
 </details>
 
 <details>
@@ -141,6 +157,8 @@ Why is copper in its own section? Because its got some special features just for
 ### <p align="center">[Better Archeology](https://modrinth.com/mod/better-archeology)
 
 ### <p align="center">[Mo Glass](https://modrinth.com/mod/mo-glass)
+
+### <p align="center">[Nether Additions](https://modrinth.com/mod/nether-additions)
 
 </p>
 </details>
