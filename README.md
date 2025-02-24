@@ -144,7 +144,7 @@ Why is copper in its own section? Because its got some special features just for
 
 ### <p align="center">[Glow Ink Plus](https://modrinth.com/mod/glow-ink-plus)
 
-### <p align="center">[Stylish Stiles](https://modrinth.com/mod/stylish-stiles)
+### <p align="center">[Stylish Stiles](https://modrinth.com/mod/stylish-stiles) and [Stylish Stiles - Renewed](https://modrinth.com/mod/stylish-stiles-renewed) (port for 1.21.1+ support)
 
 ## <p align="center">Planned
 
