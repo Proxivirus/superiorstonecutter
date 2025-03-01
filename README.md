@@ -170,4 +170,4 @@ Why is copper in its own section? Because its got some special features just for
 <a align="center" title="https://discord.gg/y5nzCPY7gW" href="https://discord.gg/y5nzCPY7gW"><img src="https://cdn.modrinth.com/data/cached_images/7e1937b6f30f595539ef11a362b2bea4df1cf4b1.png" alt="" width="500" height="137"></a>
 </p>
 
-If you're looking for something similar to this that supports uncrafting, check out [Mastercutter](https://modrinth.com/datapack/mastercutter)
+If you're looking for something similar to this that supports uncrafting, check out [MasterCutter](https://modrinth.com/datapack/mastercutter)
