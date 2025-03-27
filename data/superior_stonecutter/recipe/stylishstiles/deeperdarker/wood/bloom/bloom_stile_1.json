@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "deeperdarker:bloom_planks"
+    }
+  ],
+  "result": {
+    "id": "stylishstiles:bloom_stile",
+    "count": 1
+  }
+}

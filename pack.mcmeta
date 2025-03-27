@@ -12,14 +12,14 @@
       {
       "formats": {
         "min_inclusive": 57,
-        "max_inclusive": 61
+        "max_inclusive": 71
       },
       "directory": "overlay_57"
     },
       {
       "formats": {
         "min_inclusive": 61,
-        "max_inclusive": 61
+        "max_inclusive": 71
       },
       "directory": "overlay_61"
     }

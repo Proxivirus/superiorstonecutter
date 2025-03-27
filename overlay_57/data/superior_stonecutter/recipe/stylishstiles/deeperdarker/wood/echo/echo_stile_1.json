@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "deeperdarker:echo_planks"
+  ],
+  "result": {
+    "id": "stylishstiles:echo_stile",
+    "count": 1
+  }
+}

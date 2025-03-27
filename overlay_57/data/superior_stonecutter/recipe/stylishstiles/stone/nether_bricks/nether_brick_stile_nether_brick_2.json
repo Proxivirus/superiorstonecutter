@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "stylishstiles:nether_brick_stile"
+  ],
+  "result": {
+    "id": "minecraft:nether_brick",
+    "count": 2
+  }
+}
