@@ -140,6 +140,8 @@ Why is copper in its own section? Because its got some special features just for
 
 ## <p align="center">Complete
 
+### <p align="center">[Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)
+
 ### <p align="center">[Deeper and Darker](https://modrinth.com/mod/deeperdarker)
 
 ### <p align="center">[Glow Ink Plus](https://modrinth.com/mod/glow-ink-plus)
