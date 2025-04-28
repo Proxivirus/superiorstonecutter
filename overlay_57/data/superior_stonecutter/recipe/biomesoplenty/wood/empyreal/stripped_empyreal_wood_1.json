@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:empyreal_wood"
+  ],
+  "result": {
+    "id": "biomesoplenty:stripped_empyreal_wood",
+    "count": 1
+  }
+}

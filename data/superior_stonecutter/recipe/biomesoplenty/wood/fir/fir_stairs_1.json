@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:fir_planks"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:fir_stairs",
+    "count": 1
+  }
+}

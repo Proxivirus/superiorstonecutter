@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:magic_planks"
+  ],
+  "result": {
+    "id": "biomesoplenty:magic_sign",
+    "count": 2
+  }
+}

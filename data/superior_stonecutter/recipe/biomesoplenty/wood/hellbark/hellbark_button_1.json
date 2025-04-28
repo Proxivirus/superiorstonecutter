@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:hellbark_pressure_plate"
+    },
+    {
+      "item": "biomesoplenty:hellbark_sign"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:hellbark_button",
+    "count": 1
+  }
+}

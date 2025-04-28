@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:maple_stairs"
+    },
+    {
+      "item": "biomesoplenty:maple_slab"
+    },
+	{
+      "item": "biomesoplenty:maple_door"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:maple_sign",
+    "count": 1
+  }
+}

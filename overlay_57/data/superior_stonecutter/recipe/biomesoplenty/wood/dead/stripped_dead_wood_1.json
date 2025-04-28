@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:dead_wood"
+  ],
+  "result": {
+    "id": "biomesoplenty:stripped_dead_wood",
+    "count": 1
+  }
+}

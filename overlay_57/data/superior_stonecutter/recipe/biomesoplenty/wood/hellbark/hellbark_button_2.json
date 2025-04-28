@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:hellbark_trapdoor",
+    "biomesoplenty:hellbark_slab",
+    "biomesoplenty:hellbark_fence",
+    "biomesoplenty:hellbark_fence_gate"
+  ],
+  "result": {
+    "id": "biomesoplenty:hellbark_button",
+    "count": 2
+  }
+}

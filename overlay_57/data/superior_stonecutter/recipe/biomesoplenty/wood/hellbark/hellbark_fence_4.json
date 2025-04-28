@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:hellbark_log",
+    "biomesoplenty:stripped_hellbark_log",
+    "biomesoplenty:hellbark_wood",
+    "biomesoplenty:stripped_hellbark_wood"
+  ],
+  "result": {
+    "id": "biomesoplenty:hellbark_fence",
+    "count": 4
+  }
+}

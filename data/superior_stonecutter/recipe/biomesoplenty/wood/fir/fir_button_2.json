@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:fir_trapdoor"
+    },
+	{
+      "item": "biomesoplenty:fir_slab"
+    },
+	{
+      "item": "biomesoplenty:fir_fence"
+    },
+    {
+      "item": "biomesoplenty:fir_fence_gate"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:fir_button",
+    "count": 2
+  }
+}

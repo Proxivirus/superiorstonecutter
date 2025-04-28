@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:umbran_log",
+    "biomesoplenty:stripped_umbran_log",
+    "biomesoplenty:umbran_wood",
+    "biomesoplenty:stripped_umbran_wood"
+  ],
+  "result": {
+    "id": "biomesoplenty:umbran_sign",
+    "count": 4
+  }
+}

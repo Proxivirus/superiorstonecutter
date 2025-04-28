@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:empyreal_planks",
+    "biomesoplenty:empyreal_door"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 4
+  }
+}

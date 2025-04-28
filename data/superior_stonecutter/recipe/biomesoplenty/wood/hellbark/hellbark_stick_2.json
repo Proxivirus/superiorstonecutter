@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:hellbark_trapdoor"
+    },
+    {
+      "item": "biomesoplenty:hellbark_slab"
+    },
+	{
+      "item": "biomesoplenty:hellbark_fence"
+    },
+    {
+      "item": "biomesoplenty:hellbark_fence_gate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

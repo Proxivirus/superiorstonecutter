@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:maple_log",
+    "biomesoplenty:stripped_maple_log",
+    "biomesoplenty:maple_wood",
+    "biomesoplenty:stripped_maple_wood"
+  ],
+  "result": {
+    "id": "biomesoplenty:maple_door",
+    "count": 3
+  }
+}

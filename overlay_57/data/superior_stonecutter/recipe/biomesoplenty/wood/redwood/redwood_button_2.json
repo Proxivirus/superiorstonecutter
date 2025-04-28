@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:redwood_trapdoor",
+    "biomesoplenty:redwood_slab",
+    "biomesoplenty:redwood_fence",
+    "biomesoplenty:redwood_fence_gate"
+  ],
+  "result": {
+    "id": "biomesoplenty:redwood_button",
+    "count": 2
+  }
+}

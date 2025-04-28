@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:toadstool_block"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:toadstool",
+    "count": 4
+  }
+}

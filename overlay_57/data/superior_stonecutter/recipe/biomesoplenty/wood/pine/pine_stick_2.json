@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:pine_trapdoor",
+    "biomesoplenty:pine_slab",
+    "biomesoplenty:pine_fence",
+    "biomesoplenty:pine_fence_gate"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

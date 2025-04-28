@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:palm_pressure_plate",
+    "biomesoplenty:palm_sign"
+  ],
+  "result": {
+    "id": "biomesoplenty:palm_button",
+    "count": 1
+  }
+}

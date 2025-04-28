@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:willow_planks"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:willow_sign",
+    "count": 2
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:willow_trapdoor",
+    "biomesoplenty:willow_slab",
+    "biomesoplenty:willow_fence",
+    "biomesoplenty:willow_fence_gate"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

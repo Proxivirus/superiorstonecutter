@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:glowshroom_block"
+  ],
+  "result": {
+    "id": "biomesoplenty:glowshroom",
+    "count": 4
+  }
+}

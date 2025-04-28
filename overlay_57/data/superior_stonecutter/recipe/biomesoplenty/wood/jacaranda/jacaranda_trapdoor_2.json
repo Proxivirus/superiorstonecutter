@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:jacaranda_planks"
+  ],
+  "result": {
+    "id": "biomesoplenty:jacaranda_trapdoor",
+    "count": 2
+  }
+}

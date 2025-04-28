@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:empyreal_trapdoor",
+    "biomesoplenty:empyreal_slab",
+    "biomesoplenty:empyreal_fence",
+    "biomesoplenty:empyreal_fence_gate"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

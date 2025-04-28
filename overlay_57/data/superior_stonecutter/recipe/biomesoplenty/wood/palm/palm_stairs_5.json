@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:palm_log",
+    "biomesoplenty:stripped_palm_log",
+    "biomesoplenty:palm_wood",
+    "biomesoplenty:stripped_palm_wood"
+  ],
+  "result": {
+    "id": "biomesoplenty:palm_stairs",
+    "count": 5
+  }
+}

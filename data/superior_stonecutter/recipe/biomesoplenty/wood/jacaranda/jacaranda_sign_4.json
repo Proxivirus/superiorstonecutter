@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:jacaranda_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_jacaranda_log"
+    },
+    {
+      "item": "biomesoplenty:jacaranda_wood"
+    },
+    {
+      "item": "biomesoplenty:stripped_jacaranda_wood"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:jacaranda_sign",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:dead_stairs"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:dead_button",
+    "count": 3
+  }
+}

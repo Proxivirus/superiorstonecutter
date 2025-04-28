@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:maple_stairs"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:maple_button",
+    "count": 3
+  }
+}

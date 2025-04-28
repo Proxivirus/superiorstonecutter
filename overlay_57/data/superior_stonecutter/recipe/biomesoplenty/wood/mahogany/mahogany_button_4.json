@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:mahogany_planks",
+    "biomesoplenty:mahogany_door"
+  ],
+  "result": {
+    "id": "biomesoplenty:mahogany_button",
+    "count": 4
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:mahogany_stairs"
+    },
+    {
+      "item": "biomesoplenty:mahogany_slab"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:mahogany_trapdoor",
+    "count": 1
+  }
+}

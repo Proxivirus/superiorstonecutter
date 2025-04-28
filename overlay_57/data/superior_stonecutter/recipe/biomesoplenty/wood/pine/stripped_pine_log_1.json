@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:pine_log",
+    "biomesoplenty:pine_wood"
+  ],
+  "result": {
+    "id": "biomesoplenty:stripped_pine_log",
+    "count": 1
+  }
+}

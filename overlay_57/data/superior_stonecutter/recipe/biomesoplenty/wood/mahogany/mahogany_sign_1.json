@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:mahogany_stairs",
+    "biomesoplenty:mahogany_slab",
+    "biomesoplenty:mahogany_door"
+  ],
+  "result": {
+    "id": "biomesoplenty:mahogany_sign",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:magic_pressure_plate",
+    "biomesoplenty:magic_sign"
+  ],
+  "result": {
+    "id": "biomesoplenty:magic_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:hellbark_stairs"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:hellbark_button",
+    "count": 3
+  }
+}

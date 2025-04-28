@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:redwood_stairs"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:redwood_slab",
+    "count": 1
+  }
+}

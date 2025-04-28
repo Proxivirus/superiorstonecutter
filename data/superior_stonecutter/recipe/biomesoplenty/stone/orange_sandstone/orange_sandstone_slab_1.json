@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:orange_sandstone_stairs"
+    },
+    {
+      "item": "biomesoplenty:smooth_orange_sandstone_stairs"
+    },
+    {
+      "item": "biomesoplenty:smooth_orange_sandstone_slab"
+    },
+    {
+      "item": "biomesoplenty:cut_orange_sandstone_slab"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:orange_sandstone_slab",
+    "count": 1
+  }
+}

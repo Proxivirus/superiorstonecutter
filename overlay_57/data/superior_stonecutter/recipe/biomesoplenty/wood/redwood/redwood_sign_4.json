@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:redwood_log",
+    "biomesoplenty:stripped_redwood_log",
+    "biomesoplenty:redwood_wood",
+    "biomesoplenty:stripped_redwood_wood"
+  ],
+  "result": {
+    "id": "biomesoplenty:redwood_sign",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:palm_stairs"
+    }
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 3
+  }
+}

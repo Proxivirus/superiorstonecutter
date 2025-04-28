@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:pine_trapdoor"
+    },
+	{
+      "item": "biomesoplenty:pine_slab"
+    },
+	{
+      "item": "biomesoplenty:pine_stairs"
+    },
+    {
+      "item": "biomesoplenty:pine_door"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:pine_pressure_plate",
+    "count": 2
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:jacaranda_trapdoor",
+    "biomesoplenty:jacaranda_slab",
+    "biomesoplenty:jacaranda_fence",
+    "biomesoplenty:jacaranda_fence_gate"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

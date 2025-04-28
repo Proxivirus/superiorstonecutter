@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:umbran_stairs"
+    },
+    {
+      "item": "biomesoplenty:umbran_slab"
+    },
+	{
+      "item": "biomesoplenty:umbran_door"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:umbran_sign",
+    "count": 1
+  }
+}

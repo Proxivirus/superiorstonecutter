@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:empyreal_planks"
+  ],
+  "result": {
+    "id": "biomesoplenty:empyreal_pressure_plate",
+    "count": 4
+  }
+}

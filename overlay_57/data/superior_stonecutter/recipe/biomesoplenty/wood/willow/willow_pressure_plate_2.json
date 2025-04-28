@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:willow_trapdoor",
+    "biomesoplenty:willow_slab",
+    "biomesoplenty:willow_stairs",
+    "biomesoplenty:willow_door"
+  ],
+  "result": {
+    "id": "biomesoplenty:willow_pressure_plate",
+    "count": 2
+  }
+}

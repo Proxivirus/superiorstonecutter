@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:redwood_pressure_plate",
+    "biomesoplenty:redwood_sign"
+  ],
+  "result": {
+    "id": "biomesoplenty:redwood_button",
+    "count": 1
+  }
+}

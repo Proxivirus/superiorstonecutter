@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:willow_planks"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:willow_pressure_plate",
+    "count": 4
+  }
+}

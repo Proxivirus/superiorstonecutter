@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:dead_trapdoor"
+    },
+	{
+      "item": "biomesoplenty:dead_slab"
+    },
+	{
+      "item": "biomesoplenty:dead_fence"
+    },
+    {
+      "item": "biomesoplenty:dead_fence_gate"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:dead_button",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:chiseled_black_sandstone",
+    "biomesoplenty:smooth_black_sandstone",
+    "biomesoplenty:cut_black_sandstone"
+  ],
+  "result": {
+    "id": "biomesoplenty:black_sandstone_slab",
+    "count": 2
+  }
+}

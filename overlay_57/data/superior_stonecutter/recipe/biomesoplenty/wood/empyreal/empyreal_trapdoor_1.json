@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:empyreal_stairs",
+    "biomesoplenty:empyreal_slab"
+  ],
+  "result": {
+    "id": "biomesoplenty:empyreal_trapdoor",
+    "count": 1
+  }
+}

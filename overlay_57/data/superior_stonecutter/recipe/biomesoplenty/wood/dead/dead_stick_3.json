@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:dead_stairs"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 3
+  }
+}

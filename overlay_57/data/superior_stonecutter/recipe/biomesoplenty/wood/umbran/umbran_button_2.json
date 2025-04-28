@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:umbran_trapdoor",
+    "biomesoplenty:umbran_slab",
+    "biomesoplenty:umbran_fence",
+    "biomesoplenty:umbran_fence_gate"
+  ],
+  "result": {
+    "id": "biomesoplenty:umbran_button",
+    "count": 2
+  }
+}

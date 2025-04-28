@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:mahogany_pressure_plate"
+    },
+    {
+      "item": "biomesoplenty:mahogany_sign"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:mahogany_button",
+    "count": 1
+  }
+}

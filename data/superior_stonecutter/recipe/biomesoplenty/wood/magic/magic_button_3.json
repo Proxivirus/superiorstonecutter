@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:magic_stairs"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:magic_button",
+    "count": 3
+  }
+}

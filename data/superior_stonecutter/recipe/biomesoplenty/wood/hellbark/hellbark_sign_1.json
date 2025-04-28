@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:hellbark_stairs"
+    },
+    {
+      "item": "biomesoplenty:hellbark_slab"
+    },
+	{
+      "item": "biomesoplenty:hellbark_door"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:hellbark_sign",
+    "count": 1
+  }
+}

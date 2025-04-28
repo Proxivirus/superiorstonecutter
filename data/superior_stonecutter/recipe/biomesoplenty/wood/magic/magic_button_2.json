@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:magic_trapdoor"
+    },
+	{
+      "item": "biomesoplenty:magic_slab"
+    },
+	{
+      "item": "biomesoplenty:magic_fence"
+    },
+    {
+      "item": "biomesoplenty:magic_fence_gate"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:magic_button",
+    "count": 2
+  }
+}

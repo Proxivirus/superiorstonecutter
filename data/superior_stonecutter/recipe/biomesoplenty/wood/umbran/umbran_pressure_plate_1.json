@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:umbran_sign"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:umbran_pressure_plate",
+    "count": 1
+  }
+}

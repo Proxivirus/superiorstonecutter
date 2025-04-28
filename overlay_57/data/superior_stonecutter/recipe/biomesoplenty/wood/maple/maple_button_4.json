@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:maple_planks",
+    "biomesoplenty:maple_door"
+  ],
+  "result": {
+    "id": "biomesoplenty:maple_button",
+    "count": 4
+  }
+}

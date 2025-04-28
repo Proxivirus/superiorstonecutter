@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:dead_planks"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:dead_pressure_plate",
+    "count": 4
+  }
+}

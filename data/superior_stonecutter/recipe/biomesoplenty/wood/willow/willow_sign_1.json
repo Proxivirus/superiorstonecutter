@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:willow_stairs"
+    },
+    {
+      "item": "biomesoplenty:willow_slab"
+    },
+	{
+      "item": "biomesoplenty:willow_door"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:willow_sign",
+    "count": 1
+  }
+}

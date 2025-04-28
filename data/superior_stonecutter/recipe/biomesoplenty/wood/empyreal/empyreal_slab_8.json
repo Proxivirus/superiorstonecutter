@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:empyreal_wood"
+    },
+    {
+      "item": "biomesoplenty:stripped_empyreal_wood"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:empyreal_slab",
+    "count": 8
+  }
+}

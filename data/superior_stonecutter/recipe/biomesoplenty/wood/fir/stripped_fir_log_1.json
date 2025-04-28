@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:fir_log"
+    },
+    {
+      "item": "biomesoplenty:fir_wood"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:stripped_fir_log",
+    "count": 1
+  }
+}

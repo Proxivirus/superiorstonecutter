@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:fir_stairs",
+    "biomesoplenty:fir_slab",
+    "biomesoplenty:fir_door"
+  ],
+  "result": {
+    "id": "biomesoplenty:fir_sign",
+    "count": 1
+  }
+}

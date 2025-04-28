@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:dead_planks",
+    "biomesoplenty:dead_door"
+  ],
+  "result": {
+    "id": "biomesoplenty:dead_button",
+    "count": 4
+  }
+}

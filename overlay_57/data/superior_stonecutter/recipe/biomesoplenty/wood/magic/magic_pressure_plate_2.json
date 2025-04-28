@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:magic_trapdoor",
+    "biomesoplenty:magic_slab",
+    "biomesoplenty:magic_stairs",
+    "biomesoplenty:magic_door"
+  ],
+  "result": {
+    "id": "biomesoplenty:magic_pressure_plate",
+    "count": 2
+  }
+}

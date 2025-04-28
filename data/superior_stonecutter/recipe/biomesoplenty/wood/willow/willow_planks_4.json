@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:willow_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_willow_log"
+    },
+    {
+      "item": "biomesoplenty:willow_wood"
+    },
+    {
+      "item": "biomesoplenty:stripped_willow_wood"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:willow_planks",
+    "count": 4
+  }
+}

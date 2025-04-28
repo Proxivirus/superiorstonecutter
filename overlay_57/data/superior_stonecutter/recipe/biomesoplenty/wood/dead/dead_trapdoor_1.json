@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:dead_stairs",
+    "biomesoplenty:dead_slab"
+  ],
+  "result": {
+    "id": "biomesoplenty:dead_trapdoor",
+    "count": 1
+  }
+}

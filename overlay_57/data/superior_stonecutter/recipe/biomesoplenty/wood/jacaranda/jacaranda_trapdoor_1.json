@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:jacaranda_stairs",
+    "biomesoplenty:jacaranda_slab"
+  ],
+  "result": {
+    "id": "biomesoplenty:jacaranda_trapdoor",
+    "count": 1
+  }
+}

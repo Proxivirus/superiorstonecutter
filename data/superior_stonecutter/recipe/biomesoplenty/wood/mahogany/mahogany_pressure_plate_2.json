@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:mahogany_trapdoor"
+    },
+	{
+      "item": "biomesoplenty:mahogany_slab"
+    },
+	{
+      "item": "biomesoplenty:mahogany_stairs"
+    },
+    {
+      "item": "biomesoplenty:mahogany_door"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:mahogany_pressure_plate",
+    "count": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:empyreal_pressure_plate",
+    "biomesoplenty:empyreal_sign"
+  ],
+  "result": {
+    "id": "biomesoplenty:empyreal_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:redwood_wood"
+  ],
+  "result": {
+    "id": "biomesoplenty:stripped_redwood_wood",
+    "count": 1
+  }
+}

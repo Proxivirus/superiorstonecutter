@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:dead_trapdoor"
+    },
+	{
+      "item": "biomesoplenty:dead_slab"
+    },
+	{
+      "item": "biomesoplenty:dead_stairs"
+    },
+    {
+      "item": "biomesoplenty:dead_door"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:dead_pressure_plate",
+    "count": 2
+  }
+}

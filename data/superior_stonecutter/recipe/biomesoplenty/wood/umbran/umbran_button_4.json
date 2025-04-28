@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:umbran_planks"
+    },
+    {
+      "item": "biomesoplenty:umbran_door"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:umbran_button",
+    "count": 4
+  }
+}

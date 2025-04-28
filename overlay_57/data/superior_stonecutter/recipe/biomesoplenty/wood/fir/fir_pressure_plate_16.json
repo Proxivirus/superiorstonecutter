@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:fir_log",
+    "biomesoplenty:stripped_fir_log",
+    "biomesoplenty:fir_wood",
+    "biomesoplenty:stripped_fir_wood"
+  ],
+  "result": {
+    "id": "biomesoplenty:fir_pressure_plate",
+    "count": 16
+  }
+}

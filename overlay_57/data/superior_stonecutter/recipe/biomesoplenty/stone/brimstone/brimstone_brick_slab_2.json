@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:chiseled_brimstone_bricks"
+  ],
+  "result": {
+    "id": "biomesoplenty:brimstone_brick_slab",
+    "count": 2
+  }
+}

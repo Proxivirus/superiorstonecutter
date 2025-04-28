@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:mahogany_log",
+    "biomesoplenty:stripped_mahogany_log",
+    "biomesoplenty:mahogany_wood",
+    "biomesoplenty:stripped_mahogany_wood"
+  ],
+  "result": {
+    "id": "biomesoplenty:mahogany_slab",
+    "count": 8
+  }
+}

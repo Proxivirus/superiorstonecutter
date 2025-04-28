@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "biomesoplenty:palm_trapdoor",
+    "biomesoplenty:palm_slab",
+    "biomesoplenty:palm_stairs",
+    "biomesoplenty:palm_door"
+  ],
+  "result": {
+    "id": "biomesoplenty:palm_pressure_plate",
+    "count": 2
+  }
+}

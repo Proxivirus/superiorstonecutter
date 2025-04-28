@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_door"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:pine_button",
+    "count": 4
+  }
+}

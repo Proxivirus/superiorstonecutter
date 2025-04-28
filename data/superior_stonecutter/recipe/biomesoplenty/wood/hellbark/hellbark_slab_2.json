@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:hellbark_planks"
+    }
+  ],
+  "result": {
+    "id": "biomesoplenty:hellbark_slab",
+    "count": 2
+  }
+}
