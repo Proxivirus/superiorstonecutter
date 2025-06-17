@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "deeperdarker:bloom_trapdoor",
+              "deeperdarker:bloom_slab",
+              "deeperdarker:bloom_stairs",
+              "deeperdarker:bloom_door"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:deeperdarker/wood/bloom/bloom_pressure_plate_2"
+    ]
+  }
+}

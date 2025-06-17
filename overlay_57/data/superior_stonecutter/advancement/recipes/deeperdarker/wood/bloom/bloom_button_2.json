@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "deeperdarker:bloom_trapdoor",
+              "deeperdarker:bloom_slab",
+              "deeperdarker:bloom_fence",
+              "deeperdarker:bloom_fence_gate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:deeperdarker/wood/bloom/bloom_button_2"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:sandstone_stairs",
+              "minecraft:sandstone_slab",
+              "minecraft:smooth_sandstone_stairs",
+              "minecraft:smooth_sandstone_slab"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/stone/sandstone/cut_sandstone_slab_1"
+    ]
+  }
+}

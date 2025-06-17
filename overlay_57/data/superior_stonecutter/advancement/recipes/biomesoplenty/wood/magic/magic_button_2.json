@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:magic_trapdoor",
+              "biomesoplenty:magic_slab",
+              "biomesoplenty:magic_fence",
+              "biomesoplenty:magic_fence_gate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/magic/magic_button_2"
+    ]
+  }
+}

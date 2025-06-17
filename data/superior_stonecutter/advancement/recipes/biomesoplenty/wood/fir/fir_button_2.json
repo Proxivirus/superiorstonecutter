@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:fir_trapdoor",
+              "biomesoplenty:fir_slab",
+              "biomesoplenty:fir_fence",
+              "biomesoplenty:fir_fence_gate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/fir/fir_button_2"
+    ]
+  }
+}

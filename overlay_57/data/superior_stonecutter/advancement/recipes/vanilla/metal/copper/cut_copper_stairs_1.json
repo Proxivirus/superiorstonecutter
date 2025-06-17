@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:chiseled_copper",
+              "minecraft:exposed_cut_copper_stairs",
+              "minecraft:waxed_cut_copper_stairs"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/metal/copper/cut_copper_stairs_1"
+    ]
+  }
+}

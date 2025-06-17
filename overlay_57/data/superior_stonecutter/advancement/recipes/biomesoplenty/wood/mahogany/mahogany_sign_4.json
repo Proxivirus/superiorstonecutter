@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:mahogany_log",
+              "biomesoplenty:stripped_mahogany_log",
+              "biomesoplenty:mahogany_wood",
+              "biomesoplenty:stripped_mahogany_wood"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/mahogany/mahogany_sign_4"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:weathered_chiseled_copper",
+              "minecraft:weathered_cut_copper",
+              "minecraft:oxidized_copper_grate",
+              "minecraft:waxed_weathered_copper_grate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/metal/copper/weathered_copper_grate_1"
+    ]
+  }
+}

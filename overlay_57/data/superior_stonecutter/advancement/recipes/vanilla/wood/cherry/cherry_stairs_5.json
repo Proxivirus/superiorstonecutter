@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cherry_log",
+              "minecraft:stripped_cherry_log",
+              "minecraft:cherry_wood",
+              "minecraft:stripped_cherry_wood"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/wood/cherry/cherry_stairs_5"
+    ]
+  }
+}

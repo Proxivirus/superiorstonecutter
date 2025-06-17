@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:oak_log",
+              "minecraft:stripped_oak_log",
+              "minecraft:oak_wood",
+              "minecraft:stripped_oak_wood"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:stylishstiles/wood/oak/oak_stile_4"
+    ]
+  }
+}

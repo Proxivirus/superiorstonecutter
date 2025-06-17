@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:chiseled_black_sandstone",
+              "biomesoplenty:smooth_black_sandstone",
+              "biomesoplenty:cut_black_sandstone"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/stone/black_sandstone/black_sandstone_1"
+    ]
+  }
+}

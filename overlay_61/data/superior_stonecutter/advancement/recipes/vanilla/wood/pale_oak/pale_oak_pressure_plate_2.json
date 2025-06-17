@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:pale_oak_trapdoor",
+              "minecraft:pale_oak_slab",
+              "minecraft:pale_oak_stairs",
+              "minecraft:pale_oak_door"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/wood/pale_oak/pale_oak_pressure_plate_2"
+    ]
+  }
+}

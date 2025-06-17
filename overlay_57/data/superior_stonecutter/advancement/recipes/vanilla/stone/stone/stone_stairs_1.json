@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:smooth_stone",
+              "minecraft:stone_bricks",
+              "minecraft:cracked_stone_bricks",
+              "minecraft:stone_brick_stairs",
+              "minecraft:chiseled_stone_bricks",
+              "minecraft:mossy_stone_bricks",
+              "minecraft:mossy_stone_brick_stairs"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/stone/stone/stone_stairs_1"
+    ]
+  }
+}

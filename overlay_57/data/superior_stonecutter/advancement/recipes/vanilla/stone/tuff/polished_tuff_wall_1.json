@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:tuff_wall",
+              "minecraft:chiseled_tuff",
+              "minecraft:tuff_bricks",
+              "minecraft:tuff_brick_wall",
+              "minecraft:chiseled_tuff_bricks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/stone/tuff/polished_tuff_wall_1"
+    ]
+  }
+}

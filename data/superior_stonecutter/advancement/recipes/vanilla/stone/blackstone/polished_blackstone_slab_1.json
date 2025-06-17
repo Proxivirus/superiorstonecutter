@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:blackstone_stairs",
+              "minecraft:blackstone_slab",
+              "minecraft:polished_blackstone_stairs",
+              "minecraft:polished_blackstone_brick_stairs",
+              "minecraft:polished_blackstone_brick_slab"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/stone/blackstone/polished_blackstone_slab_1"
+    ]
+  }
+}

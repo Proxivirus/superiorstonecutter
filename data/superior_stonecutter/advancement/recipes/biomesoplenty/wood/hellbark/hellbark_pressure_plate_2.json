@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:hellbark_trapdoor",
+              "biomesoplenty:hellbark_slab",
+              "biomesoplenty:hellbark_stairs",
+              "biomesoplenty:hellbark_door"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/hellbark/hellbark_pressure_plate_2"
+    ]
+  }
+}

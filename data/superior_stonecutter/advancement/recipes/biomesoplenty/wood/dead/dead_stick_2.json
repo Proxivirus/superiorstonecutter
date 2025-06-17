@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:dead_trapdoor",
+              "biomesoplenty:dead_slab",
+              "biomesoplenty:dead_fence",
+              "biomesoplenty:dead_fence_gate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/dead/dead_stick_2"
+    ]
+  }
+}

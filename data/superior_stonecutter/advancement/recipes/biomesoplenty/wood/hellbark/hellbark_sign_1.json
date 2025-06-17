@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:hellbark_stairs",
+              "biomesoplenty:hellbark_slab",
+              "biomesoplenty:hellbark_door"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/hellbark/hellbark_sign_1"
+    ]
+  }
+}

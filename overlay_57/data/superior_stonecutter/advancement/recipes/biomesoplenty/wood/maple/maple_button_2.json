@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:maple_trapdoor",
+              "biomesoplenty:maple_slab",
+              "biomesoplenty:maple_fence",
+              "biomesoplenty:maple_fence_gate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/maple/maple_button_2"
+    ]
+  }
+}

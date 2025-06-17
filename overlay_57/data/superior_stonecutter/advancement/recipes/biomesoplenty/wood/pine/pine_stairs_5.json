@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:pine_log",
+              "biomesoplenty:stripped_pine_log",
+              "biomesoplenty:pine_wood",
+              "biomesoplenty:stripped_pine_wood"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/pine/pine_stairs_5"
+    ]
+  }
+}

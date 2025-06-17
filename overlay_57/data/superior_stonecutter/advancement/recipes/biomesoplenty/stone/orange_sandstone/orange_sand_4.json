@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:orange_sandstone",
+              "biomesoplenty:chiseled_orange_sandstone",
+              "biomesoplenty:smooth_orange_sandstone",
+              "biomesoplenty:cut_orange_sandstone"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/stone/orange_sandstone/orange_sand_4"
+    ]
+  }
+}

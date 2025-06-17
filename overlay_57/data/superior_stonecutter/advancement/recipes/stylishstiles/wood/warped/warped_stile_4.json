@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:warped_stem",
+              "minecraft:stripped_warped_stem",
+              "minecraft:warped_hyphae",
+              "minecraft:stripped_warped_hyphae"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:stylishstiles/wood/warped/warped_stile_4"
+    ]
+  }
+}

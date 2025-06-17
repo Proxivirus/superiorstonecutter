@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:empyreal_trapdoor",
+              "biomesoplenty:empyreal_slab",
+              "biomesoplenty:empyreal_stairs",
+              "biomesoplenty:empyreal_door"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/empyreal/empyreal_pressure_plate_2"
+    ]
+  }
+}

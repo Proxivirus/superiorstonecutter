@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:chiseled_red_sandstone",
+              "minecraft:smooth_red_sandstone",
+              "minecraft:smooth_red_sandstone_stairs",
+              "minecraft:cut_red_sandstone"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/stone/red_sandstone/red_sandstone_stairs_1"
+    ]
+  }
+}

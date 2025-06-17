@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:bamboo_trapdoor",
+              "minecraft:bamboo_slab",
+              "minecraft:bamboo_mosaic_slab",
+              "minecraft:bamboo_fence",
+              "minecraft:bamboo_fence_gate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/wood/bamboo/bamboo_stick_2"
+    ]
+  }
+}

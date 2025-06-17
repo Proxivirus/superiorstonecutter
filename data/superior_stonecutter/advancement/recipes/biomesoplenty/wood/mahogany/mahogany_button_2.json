@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:mahogany_trapdoor",
+              "biomesoplenty:mahogany_slab",
+              "biomesoplenty:mahogany_fence",
+              "biomesoplenty:mahogany_fence_gate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/mahogany/mahogany_button_2"
+    ]
+  }
+}

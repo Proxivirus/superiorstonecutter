@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:dark_oak_log",
+              "minecraft:stripped_dark_oak_log",
+              "minecraft:dark_oak_wood",
+              "minecraft:stripped_dark_oak_wood"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/wood/dark_oak/dark_oak_fence_gate_4"
+    ]
+  }
+}

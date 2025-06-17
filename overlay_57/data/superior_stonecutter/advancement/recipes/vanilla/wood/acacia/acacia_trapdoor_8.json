@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:acacia_log",
+              "minecraft:stripped_acacia_log",
+              "minecraft:acacia_wood",
+              "minecraft:stripped_acacia_wood"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/wood/acacia/acacia_trapdoor_8"
+    ]
+  }
+}

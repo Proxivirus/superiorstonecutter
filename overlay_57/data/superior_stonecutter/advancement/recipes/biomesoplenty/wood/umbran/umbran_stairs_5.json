@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:umbran_log",
+              "biomesoplenty:stripped_umbran_log",
+              "biomesoplenty:umbran_wood",
+              "biomesoplenty:stripped_umbran_wood"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/umbran/umbran_stairs_5"
+    ]
+  }
+}

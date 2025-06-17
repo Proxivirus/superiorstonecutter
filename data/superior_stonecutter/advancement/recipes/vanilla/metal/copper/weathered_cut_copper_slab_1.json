@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:weathered_cut_copper_stairs",
+              "minecraft:oxidized_cut_copper_slab",
+              "minecraft:waxed_weathered_cut_copper_slab"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/metal/copper/weathered_cut_copper_slab_1"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:magic_log",
+              "biomesoplenty:stripped_magic_log",
+              "biomesoplenty:magic_wood",
+              "biomesoplenty:stripped_magic_wood"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/magic/magic_trapdoor_8"
+    ]
+  }
+}

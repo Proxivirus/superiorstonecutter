@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:jungle_log",
+              "minecraft:stripped_jungle_log",
+              "minecraft:jungle_wood",
+              "minecraft:stripped_jungle_wood"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:stylishstiles/wood/jungle/jungle_stile_4"
+    ]
+  }
+}

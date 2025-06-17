@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:crimson_stem",
+              "minecraft:stripped_crimson_stem",
+              "minecraft:crimson_hyphae",
+              "minecraft:stripped_crimson_hyphae"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/wood/crimson/crimson_fence_4"
+    ]
+  }
+}

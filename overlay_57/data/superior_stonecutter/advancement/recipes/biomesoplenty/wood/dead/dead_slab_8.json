@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:dead_log",
+              "biomesoplenty:stripped_dead_log",
+              "biomesoplenty:dead_wood",
+              "biomesoplenty:stripped_dead_wood"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/dead/dead_slab_8"
+    ]
+  }
+}

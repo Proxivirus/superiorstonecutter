@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:stone",
+              "minecraft:mossy_cobblestone",
+              "minecraft:smooth_stone",
+              "minecraft:stone_bricks",
+              "minecraft:cracked_stone_bricks",
+              "minecraft:chiseled_stone_bricks",
+              "minecraft:mossy_stone_bricks",
+              "minecraft:mossy_cobblestone_wall",
+              "minecraft:stone_brick_wall",
+              "minecraft:mossy_stone_brick_wall"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/stone/stone/cobblestone_wall_1"
+    ]
+  }
+}

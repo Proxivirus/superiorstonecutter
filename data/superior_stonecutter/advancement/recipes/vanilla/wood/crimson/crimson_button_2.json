@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:crimson_trapdoor",
+              "minecraft:crimson_slab",
+              "minecraft:crimson_fence",
+              "minecraft:crimson_fence_gate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/wood/crimson/crimson_button_2"
+    ]
+  }
+}

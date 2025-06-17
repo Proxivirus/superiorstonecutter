@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:empyreal_log",
+              "biomesoplenty:stripped_empyreal_log",
+              "biomesoplenty:empyreal_wood",
+              "biomesoplenty:stripped_empyreal_wood"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/empyreal/empyreal_slab_8"
+    ]
+  }
+}

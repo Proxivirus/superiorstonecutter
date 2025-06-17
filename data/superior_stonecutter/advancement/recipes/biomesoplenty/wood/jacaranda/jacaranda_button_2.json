@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:jacaranda_trapdoor",
+              "biomesoplenty:jacaranda_slab",
+              "biomesoplenty:jacaranda_fence",
+              "biomesoplenty:jacaranda_fence_gate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/jacaranda/jacaranda_button_2"
+    ]
+  }
+}

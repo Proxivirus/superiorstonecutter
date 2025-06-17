@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:spruce_trapdoor",
+              "minecraft:spruce_slab",
+              "minecraft:spruce_fence",
+              "minecraft:spruce_fence_gate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/wood/spruce/spruce_button_2"
+    ]
+  }
+}

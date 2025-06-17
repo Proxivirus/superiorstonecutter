@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:deepslate",
+              "minecraft:chiseled_deepslate",
+              "minecraft:cracked_deepslate_bricks",
+              "minecraft:cracked_deepslate_tiles",
+              "minecraft:polished_deepslate_stairs",
+              "minecraft:cobbled_deepslate_stairs",
+              "minecraft:deepslate_brick_stairs"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/stone/deepslate/deepslate_tile_stairs_1"
+    ]
+  }
+}

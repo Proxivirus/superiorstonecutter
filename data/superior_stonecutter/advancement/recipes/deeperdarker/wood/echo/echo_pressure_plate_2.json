@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "deeperdarker:echo_trapdoor",
+              "deeperdarker:echo_slab",
+              "deeperdarker:echo_stairs",
+              "deeperdarker:echo_door"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:deeperdarker/wood/echo/echo_pressure_plate_2"
+    ]
+  }
+}

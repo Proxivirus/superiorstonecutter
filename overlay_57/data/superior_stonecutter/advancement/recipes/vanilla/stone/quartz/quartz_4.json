@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:quartz_block",
+              "minecraft:chiseled_quartz_block",
+              "minecraft:quartz_bricks",
+              "minecraft:quartz_pillar",
+              "minecraft:smooth_quartz"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/stone/quartz/quartz_4"
+    ]
+  }
+}

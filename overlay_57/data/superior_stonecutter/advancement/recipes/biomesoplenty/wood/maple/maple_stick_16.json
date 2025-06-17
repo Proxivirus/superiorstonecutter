@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "biomesoplenty:maple_log",
+              "biomesoplenty:stripped_maple_log",
+              "biomesoplenty:maple_wood",
+              "biomesoplenty:stripped_maple_wood"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:biomesoplenty/wood/maple/maple_stick_16"
+    ]
+  }
+}

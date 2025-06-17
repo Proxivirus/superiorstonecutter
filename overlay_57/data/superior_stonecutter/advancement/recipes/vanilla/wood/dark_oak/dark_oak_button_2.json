@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:dark_oak_trapdoor",
+              "minecraft:dark_oak_slab",
+              "minecraft:dark_oak_fence",
+              "minecraft:dark_oak_fence_gate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/wood/dark_oak/dark_oak_button_2"
+    ]
+  }
+}

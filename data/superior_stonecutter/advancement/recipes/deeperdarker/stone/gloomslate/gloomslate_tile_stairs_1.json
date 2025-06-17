@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "deeperdarker:gloomslate",
+              "deeperdarker:gloomslate_stairs",
+              "deeperdarker:polished_gloomslate",
+              "deeperdarker:polished_gloomslate_stairs",
+              "deeperdarker:gloomslate_bricks",
+              "deeperdarker:gloomslate_brick_stairs",
+              "deeperdarker:smooth_gloomslate",
+              "deeperdarker:smooth_gloomslate_stairs",
+              "deeperdarker:cut_gloomslate",
+              "deeperdarker:cut_gloomslate_stairs",
+              "deeperdarker:chiseled_gloomslate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:deeperdarker/stone/gloomslate/gloomslate_tile_stairs_1"
+    ]
+  }
+}

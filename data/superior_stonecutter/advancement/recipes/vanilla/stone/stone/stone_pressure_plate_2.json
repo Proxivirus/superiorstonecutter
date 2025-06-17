@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:stone_slab",
+              "minecraft:smooth_stone_slab",
+              "minecraft:stone_brick_stairs",
+              "minecraft:stone_brick_slab",
+              "minecraft:mossy_stone_brick_stairs",
+              "minecraft:mossy_stone_brick_slab"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/stone/stone/stone_pressure_plate_2"
+    ]
+  }
+}
