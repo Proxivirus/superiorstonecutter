@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:sulfur_stairs",
+              "minecraft:chiseled_sulfur",
+              "minecraft:polished_sulfur_stairs"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/stone/sulfur/sulfur_brick_stairs_1"
+    ]
+  }
+}

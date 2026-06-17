@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:sulfur_wall",
+              "minecraft:chiseled_sulfur",
+              "minecraft:polished_sulfur_wall"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/stone/sulfur/sulfur_brick_wall_1"
+    ]
+  }
+}

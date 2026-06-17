@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:sulfur_wall",
+    "minecraft:chiseled_sulfur",
+    "minecraft:sulfur_bricks",
+    "minecraft:sulfur_brick_wall"
+  ],
+  "result": {
+    "id": "minecraft:polished_sulfur_wall",
+    "count": 1
+  }
+}

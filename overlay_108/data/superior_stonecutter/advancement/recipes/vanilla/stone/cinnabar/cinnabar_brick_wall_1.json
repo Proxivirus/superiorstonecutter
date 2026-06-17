@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cinnabar_wall",
+              "minecraft:chiseled_cinnabar",
+              "minecraft:polished_cinnabar_wall"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/stone/cinnabar/cinnabar_brick_wall_1"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:chiseled_cinnabar",
+              "minecraft:polished_cinnabar",
+              "minecraft:polished_cinnabar_stairs",
+              "minecraft:cinnabar_bricks",
+              "minecraft:cinnabar_brick_stairs"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/stone/cinnabar/cinnabar_stairs_1"
+    ]
+  }
+}

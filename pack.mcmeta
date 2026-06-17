@@ -6,7 +6,7 @@
       "max_inclusive": 48
     },
     "min_format": 48,
-    "max_format": 101,
+    "max_format": 108,
     "description": "Superior Stonecutter by Proxi"
   },
   "overlays": {
@@ -14,20 +14,29 @@
       {
       "formats": {
         "min_inclusive": 57,
-        "max_inclusive": 101
+        "max_inclusive": 108
       },
       "min_format": 57,
-      "max_format": 101,
+      "max_format": 108,
       "directory": "overlay_57"
     },
       {
       "formats": {
         "min_inclusive": 61,
-        "max_inclusive": 101
+        "max_inclusive": 108
       },
       "min_format": 61,
-      "max_format": 101,
+      "max_format": 108,
       "directory": "overlay_61"
+    },
+      {
+      "formats": {
+        "min_inclusive": 108,
+        "max_inclusive": 108
+      },
+      "min_format": 108,
+      "max_format": 108,
+      "directory": "overlay_108"
     }
     ]
   }
