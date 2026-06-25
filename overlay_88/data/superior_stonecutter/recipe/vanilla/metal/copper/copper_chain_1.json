@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:copper_ingot"
+  ],
+  "result": {
+    "id": "minecraft:copper_chain",
+    "count": 1
+  }
+}

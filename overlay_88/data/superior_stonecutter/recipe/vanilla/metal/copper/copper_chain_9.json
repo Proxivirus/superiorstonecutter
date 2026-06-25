@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#superior_stonecutter:copper_blocks",
+  "result": {
+    "id": "minecraft:copper_chain",
+    "count": 9
+  }
+}
