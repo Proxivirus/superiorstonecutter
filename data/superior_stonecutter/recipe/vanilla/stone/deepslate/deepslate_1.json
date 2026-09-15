@@ -2,6 +2,9 @@
   "type": "minecraft:stonecutting",
   "ingredient": [
     {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    {
       "item": "minecraft:chiseled_deepslate"
     },
     {

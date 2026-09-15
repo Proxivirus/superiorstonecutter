@@ -6,6 +6,7 @@
         "items": [
           {
             "items": [
+              "minecraft:cobbled_deepslate",
               "minecraft:chiseled_deepslate",
               "minecraft:polished_deepslate",
               "minecraft:deepslate_bricks",

@@ -5,7 +5,7 @@
       "item": "minecraft:cobblestone"
     },
     {
-      "item": "minecraft:smooth_stone"
+      "item": "minecraft:stone"
     },
     {
       "item": "minecraft:stone_bricks"
@@ -21,7 +21,7 @@
     }
   ],
   "result": {
-    "id": "minecraft:stone",
+    "id": "minecraft:smooth_stone",
     "count": 1
   }
 }

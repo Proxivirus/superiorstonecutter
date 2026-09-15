@@ -8,7 +8,6 @@
             "items": [
               "minecraft:cobblestone",
               "minecraft:stone",
-              "minecraft:smooth_stone",
               "minecraft:stone_bricks",
               "minecraft:cracked_stone_bricks",
               "minecraft:chiseled_stone_bricks",
@@ -21,7 +20,7 @@
   },
   "rewards": {
     "recipes": [
-      "superior_stonecutter:vanilla/stone/stone/stone_pressure_plate_4"
+      "superior_stonecutter:vanilla/stone/stone/smooth_stone_1"
     ]
   }
 }

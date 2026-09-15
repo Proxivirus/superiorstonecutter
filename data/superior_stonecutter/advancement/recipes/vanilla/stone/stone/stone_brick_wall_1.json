@@ -6,6 +6,8 @@
         "items": [
           {
             "items": [
+              "minecraft:cobblestone",
+              "minecraft:cobblestone_wall",
               "minecraft:smooth_stone",
               "minecraft:cracked_stone_bricks",
               "minecraft:chiseled_stone_bricks",

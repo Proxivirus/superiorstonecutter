@@ -2,6 +2,9 @@
   "type": "minecraft:stonecutting",
   "ingredient": [
     {
+      "item": "minecraft:cobblestone"
+    },
+    {
       "item": "minecraft:smooth_stone"
     },
     {

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:blackstone",
+              "minecraft:polished_blackstone",
+              "minecraft:chiseled_polished_blackstone",
+              "minecraft:polished_blackstone_bricks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/stone/blackstone/cracked_polished_blackstone_bricks_1"
+    ]
+  }
+}

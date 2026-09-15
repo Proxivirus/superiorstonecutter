@@ -2,6 +2,12 @@
   "type": "minecraft:stonecutting",
   "ingredient": [
     {
+      "item": "minecraft:cobblestone_slab"
+    },
+    {
+      "item": "minecraft:cobblestone_stairs"
+    },
+    {
       "item": "minecraft:stone_stairs"
     },
     {
