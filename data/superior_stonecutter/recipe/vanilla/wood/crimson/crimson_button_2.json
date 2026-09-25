@@ -1,18 +1,10 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:crimson_trapdoor"
-    },
-	{
-      "item": "minecraft:crimson_slab"
-    },
-	{
-      "item": "minecraft:crimson_fence"
-    },
-    {
-      "item": "minecraft:crimson_fence_gate"
-    }
+    "minecraft:crimson_trapdoor",
+    "minecraft:crimson_slab",
+    "minecraft:crimson_fence",
+    "minecraft:crimson_fence_gate"
   ],
   "result": {
     "id": "minecraft:crimson_button",

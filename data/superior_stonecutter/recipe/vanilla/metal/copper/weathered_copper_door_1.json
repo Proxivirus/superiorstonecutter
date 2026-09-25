@@ -1,12 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:oxidized_copper_door"
-    },
-    {
-      "item": "minecraft:waxed_weathered_copper_door"
-    }
+    "minecraft:oxidized_copper_door",
+    "minecraft:waxed_weathered_copper_door"
   ],
   "result": {
     "id": "minecraft:weathered_copper_door",

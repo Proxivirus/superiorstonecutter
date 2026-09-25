@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:wool_slabs"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "superior_stonecutter:vanilla/misc/string/string_2"
+    ]
+  }
+}

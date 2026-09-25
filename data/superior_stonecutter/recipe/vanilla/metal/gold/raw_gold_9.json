@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:raw_gold_block"
-    }
+    "minecraft:raw_gold_block"
   ],
   "result": {
     "id": "minecraft:raw_gold",

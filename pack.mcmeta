@@ -1,52 +1,7 @@
 {
-  "pack": {
-    "pack_format": 48,
-    "supported_formats": {
-      "min_inclusive": 48,
-      "max_inclusive": 48
-    },
-    "min_format": 48,
-    "max_format": 108,
-    "description": "Superior Stonecutter by Proxi"
-  },
-  "overlays": {
-    "entries": [
-      {
-      "formats": {
-        "min_inclusive": 57,
-        "max_inclusive": 108
-      },
-      "min_format": 57,
-      "max_format": 108,
-      "directory": "overlay_57"
-    },
-      {
-      "formats": {
-        "min_inclusive": 61,
-        "max_inclusive": 108
-      },
-      "min_format": 61,
-      "max_format": 108,
-      "directory": "overlay_61"
-    },
-      {
-      "formats": {
-        "min_inclusive": 88,
-        "max_inclusive": 108
-      },
-      "min_format": 88,
-      "max_format": 108,
-      "directory": "overlay_88"
-    },
-      {
-      "formats": {
-        "min_inclusive": 108,
-        "max_inclusive": 108
-      },
-      "min_format": 108,
-      "max_format": 108,
-      "directory": "overlay_108"
-    }
-    ]
-  }
+	"pack": {
+			"description": "Superior Stonecutter by Proxi",
+			"min_format": [121,0],
+   			"max_format": [121,0]
+	}
 }

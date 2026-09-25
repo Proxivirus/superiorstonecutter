@@ -1,18 +1,10 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:spruce_trapdoor"
-    },
-    {
-      "item": "minecraft:spruce_slab"
-    },
-	{
-      "item": "minecraft:spruce_fence"
-    },
-    {
-      "item": "minecraft:spruce_fence_gate"
-    }
+    "minecraft:spruce_trapdoor",
+    "minecraft:spruce_slab",
+    "minecraft:spruce_fence",
+    "minecraft:spruce_fence_gate"
   ],
   "result": {
     "id": "minecraft:stick",

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:poplar_planks",
+    "minecraft:poplar_door"
+  ],
+  "result": {
+    "id": "minecraft:stick",
+    "count": 4
+  }
+}

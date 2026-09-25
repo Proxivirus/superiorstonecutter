@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:prismarine"
-    }
+    "minecraft:prismarine"
   ],
   "result": {
     "id": "minecraft:prismarine_shard",

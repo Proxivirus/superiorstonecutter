@@ -1,18 +1,10 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:acacia_trapdoor"
-    },
-	{
-      "item": "minecraft:acacia_slab"
-    },
-	{
-      "item": "minecraft:acacia_fence"
-    },
-    {
-      "item": "minecraft:acacia_fence_gate"
-    }
+    "minecraft:acacia_trapdoor",
+    "minecraft:acacia_slab",
+    "minecraft:acacia_fence",
+    "minecraft:acacia_fence_gate"
   ],
   "result": {
     "id": "minecraft:acacia_button",

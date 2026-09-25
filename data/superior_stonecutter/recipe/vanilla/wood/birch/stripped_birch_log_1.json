@@ -1,12 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:birch_log"
-    },
-    {
-      "item": "minecraft:birch_wood"
-    }
+    "minecraft:birch_log",
+    "minecraft:birch_wood"
   ],
   "result": {
     "id": "minecraft:stripped_birch_log",

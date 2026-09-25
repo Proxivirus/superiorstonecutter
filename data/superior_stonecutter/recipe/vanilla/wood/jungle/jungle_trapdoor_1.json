@@ -1,12 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:jungle_stairs"
-    },
-    {
-      "item": "minecraft:jungle_slab"
-    }
+    "minecraft:jungle_stairs",
+    "minecraft:jungle_slab"
   ],
   "result": {
     "id": "minecraft:jungle_trapdoor",

@@ -1,12 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:warped_pressure_plate"
-    },
-    {
-      "item": "minecraft:warped_sign"
-    }
+    "minecraft:warped_pressure_plate",
+    "minecraft:warped_sign"
   ],
   "result": {
     "id": "minecraft:warped_button",

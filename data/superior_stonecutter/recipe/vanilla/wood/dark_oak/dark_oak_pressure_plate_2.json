@@ -1,18 +1,10 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:dark_oak_trapdoor"
-    },
-	{
-      "item": "minecraft:dark_oak_slab"
-    },
-	{
-      "item": "minecraft:dark_oak_stairs"
-    },
-    {
-      "item": "minecraft:dark_oak_door"
-    }
+    "minecraft:dark_oak_trapdoor",
+    "minecraft:dark_oak_slab",
+    "minecraft:dark_oak_stairs",
+    "minecraft:dark_oak_door"
   ],
   "result": {
     "id": "minecraft:dark_oak_pressure_plate",

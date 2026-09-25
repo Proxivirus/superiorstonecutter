@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:cobweb"
-    }
+    "minecraft:cobweb"
   ],
   "result": {
     "id": "minecraft:string",

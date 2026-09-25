@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:gold_block"
-    }
+    "minecraft:gold_block"
   ],
   "result": {
     "id": "minecraft:gold_ingot",

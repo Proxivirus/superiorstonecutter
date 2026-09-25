@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:poplar_pressure_plate",
+    "minecraft:poplar_sign"
+  ],
+  "result": {
+    "id": "minecraft:poplar_button",
+    "count": 1
+  }
+}

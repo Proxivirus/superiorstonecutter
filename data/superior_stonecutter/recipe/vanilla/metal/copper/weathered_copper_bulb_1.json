@@ -1,12 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:oxidized_copper_bulb"
-    },
-    {
-      "item": "minecraft:waxed_weathered_copper_bulb"
-    }
+    "minecraft:oxidized_copper_bulb",
+    "minecraft:waxed_weathered_copper_bulb"
   ],
   "result": {
     "id": "minecraft:weathered_copper_bulb",

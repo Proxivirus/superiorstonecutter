@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:birch_sign"
-    }
+    "minecraft:birch_sign"
   ],
   "result": {
     "id": "minecraft:birch_pressure_plate",

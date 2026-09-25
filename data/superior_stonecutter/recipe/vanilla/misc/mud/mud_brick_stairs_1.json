@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:packed_mud"
-    }
+    "minecraft:packed_mud"
   ],
   "result": {
     "id": "minecraft:mud_brick_stairs",

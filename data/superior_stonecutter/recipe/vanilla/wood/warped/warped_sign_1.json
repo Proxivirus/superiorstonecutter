@@ -1,15 +1,9 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:warped_stairs"
-    },
-    {
-      "item": "minecraft:warped_slab"
-    },
-	{
-      "item": "minecraft:warped_door"
-    }
+    "minecraft:warped_stairs",
+    "minecraft:warped_slab",
+    "minecraft:warped_door"
   ],
   "result": {
     "id": "minecraft:warped_sign",

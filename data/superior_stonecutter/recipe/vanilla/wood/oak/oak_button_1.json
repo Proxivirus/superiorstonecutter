@@ -1,12 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:oak_pressure_plate"
-    },
-    {
-      "item": "minecraft:oak_sign"
-    }
+    "minecraft:oak_pressure_plate",
+    "minecraft:oak_sign"
   ],
   "result": {
     "id": "minecraft:oak_button",

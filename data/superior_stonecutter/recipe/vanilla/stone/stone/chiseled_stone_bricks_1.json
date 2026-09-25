@@ -1,15 +1,9 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:smooth_stone"
-    },
-    {
-      "item": "minecraft:cracked_stone_bricks"
-    },
-    {
-      "item": "minecraft:mossy_stone_bricks"
-    }
+    "minecraft:smooth_stone",
+    "minecraft:cracked_stone_bricks",
+    "minecraft:mossy_stone_bricks"
   ],
   "result": {
     "id": "minecraft:chiseled_stone_bricks",

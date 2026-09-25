@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:fire_coral_block"
-    }
+    "minecraft:fire_coral_block"
   ],
   "result": {
     "id": "minecraft:fire_coral_fan",

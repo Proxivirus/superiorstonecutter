@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:dead_bubble_coral_block"
-    }
+    "minecraft:dead_bubble_coral_block"
   ],
   "result": {
     "id": "minecraft:dead_bubble_coral",

@@ -1,12 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:birch_stairs"
-    },
-    {
-      "item": "minecraft:birch_slab"
-    }
+    "minecraft:birch_stairs",
+    "minecraft:birch_slab"
   ],
   "result": {
     "id": "minecraft:birch_trapdoor",

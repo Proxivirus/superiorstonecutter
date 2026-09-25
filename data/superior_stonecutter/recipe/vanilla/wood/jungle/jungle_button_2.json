@@ -1,18 +1,10 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:jungle_trapdoor"
-    },
-	{
-      "item": "minecraft:jungle_slab"
-    },
-	{
-      "item": "minecraft:jungle_fence"
-    },
-    {
-      "item": "minecraft:jungle_fence_gate"
-    }
+    "minecraft:jungle_trapdoor",
+    "minecraft:jungle_slab",
+    "minecraft:jungle_fence",
+    "minecraft:jungle_fence_gate"
   ],
   "result": {
     "id": "minecraft:jungle_button",

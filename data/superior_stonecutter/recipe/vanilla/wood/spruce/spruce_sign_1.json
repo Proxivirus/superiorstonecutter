@@ -1,15 +1,9 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:spruce_stairs"
-    },
-    {
-      "item": "minecraft:spruce_slab"
-    },
-	{
-      "item": "minecraft:spruce_door"
-    }
+    "minecraft:spruce_stairs",
+    "minecraft:spruce_slab",
+    "minecraft:spruce_door"
   ],
   "result": {
     "id": "minecraft:spruce_sign",

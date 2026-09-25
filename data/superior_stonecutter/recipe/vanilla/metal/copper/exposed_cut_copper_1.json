@@ -1,15 +1,9 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:exposed_chiseled_copper"
-    },
-    {
-      "item": "minecraft:weathered_cut_copper"
-    },
-    {
-      "item": "minecraft:waxed_exposed_cut_copper"
-    }
+    "minecraft:exposed_chiseled_copper",
+    "minecraft:weathered_cut_copper",
+    "minecraft:waxed_exposed_cut_copper"
   ],
   "result": {
     "id": "minecraft:exposed_cut_copper",

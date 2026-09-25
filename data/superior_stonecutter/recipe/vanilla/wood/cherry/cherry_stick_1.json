@@ -1,12 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:cherry_pressure_plate"
-    },
-    {
-      "item": "minecraft:cherry_sign"
-    }
+    "minecraft:cherry_pressure_plate",
+    "minecraft:cherry_sign"
   ],
   "result": {
     "id": "minecraft:stick",

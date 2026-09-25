@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:poplar_trapdoor",
+    "minecraft:poplar_slab",
+    "minecraft:poplar_stairs",
+    "minecraft:poplar_door"
+  ],
+  "result": {
+    "id": "minecraft:poplar_pressure_plate",
+    "count": 2
+  }
+}

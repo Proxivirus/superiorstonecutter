@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:cyan_wool",
+  "result": "minecraft:cyan_wool_stairs"
+  }

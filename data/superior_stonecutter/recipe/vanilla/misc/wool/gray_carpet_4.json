@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:gray_wool"
-    }
+    "minecraft:gray_wool"
   ],
   "result": {
     "id": "minecraft:gray_carpet",

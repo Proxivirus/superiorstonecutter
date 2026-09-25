@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:magenta_wool"
-    }
+    "minecraft:magenta_wool"
   ],
   "result": {
     "id": "minecraft:magenta_carpet",

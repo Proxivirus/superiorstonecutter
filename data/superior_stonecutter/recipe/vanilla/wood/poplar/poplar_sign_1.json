@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:poplar_stairs",
+    "minecraft:poplar_slab",
+    "minecraft:poplar_door"
+  ],
+  "result": {
+    "id": "minecraft:poplar_sign",
+    "count": 1
+  }
+}

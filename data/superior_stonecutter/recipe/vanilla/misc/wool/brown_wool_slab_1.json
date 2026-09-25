@@ -1,0 +1,10 @@
+﻿{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:brown_wool_stairs"
+  ],
+  "result": {
+    "id": "minecraft:brown_wool_slab",
+    "count": 1
+  }
+}

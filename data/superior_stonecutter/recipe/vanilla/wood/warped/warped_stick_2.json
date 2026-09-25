@@ -1,18 +1,10 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:warped_trapdoor"
-    },
-    {
-      "item": "minecraft:warped_slab"
-    },
-	{
-      "item": "minecraft:warped_fence"
-    },
-    {
-      "item": "minecraft:warped_fence_gate"
-    }
+    "minecraft:warped_trapdoor",
+    "minecraft:warped_slab",
+    "minecraft:warped_fence",
+    "minecraft:warped_fence_gate"
   ],
   "result": {
     "id": "minecraft:stick",
